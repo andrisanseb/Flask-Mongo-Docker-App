@@ -1,4 +1,4 @@
-# Ergasia2_E18008_Andrisan
+#  Dockerized Eshop
 ## Flask εφαρμογή με mongoDB
 
 #### HOW TO RUN:
