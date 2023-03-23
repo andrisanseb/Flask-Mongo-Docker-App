@@ -5,8 +5,8 @@
 Make sure you have docker and docker-compose installed.
 You must git-clone the repository,cd into it,type docker-compose build and then docker-compose up.
 
-1. $ git clone https://github.com/andrisanseb/Ergasia2_E18008_Andrisan.git
-1. $ cd https://github.com/andrisanseb/Ergasia2_E18008_Andrisan.git
+1. $ git clone https://github.com/andrisanseb/Flask-Mongo-Docker-App.git
+1. $ cd https://github.com/andrisanseb/Flask-Mongo-Docker-App.git
 1. $ sudo docker-compose build
 1. $sudo docker-compose up
 
